@@ -2,7 +2,7 @@
 
 A beginner-to-intermediate Python project that analyzes financial transaction data and classifies transactions as **fraudulent** or **legitimate**.
 
-## ✅ Features
+## Features
 - Load transaction data from a CSV file
 - Basic preprocessing (missing values, encoding categorical features)
 - Train a machine learning model (Logistic Regression or Decision Tree)
@@ -12,7 +12,7 @@ A beginner-to-intermediate Python project that analyzes financial transaction da
 - Show basic statistics (total transactions, fraud counts, etc.)
 - Basic visualizations using Matplotlib
 
-## 🧱 Project Structure
+## Project Structure
 ```
 ├── data/
 │   └── transactions_sample.csv
@@ -34,7 +34,7 @@ A beginner-to-intermediate Python project that analyzes financial transaction da
 └── README.md
 ```
 
-## 🚀 Setup
+## Setup
 
 1. Create & activate a Python virtual environment (recommended):
 
@@ -52,7 +52,7 @@ source .venv/bin/activate
 pip install -r requirements.txt
 ```
 
-## ▶️ Usage
+## Usage
 
 ### 1) Train the model
 

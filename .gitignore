@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+
+# SQLite database
+db/
+
+# Model artifacts
+models/
+
+# IDEs
+.vscode/
+.idea/
